@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Xaml.Behaviors.Uwp.Managed</id>
+    <version>1.1.0</version>
+    <title>Microsoft.Xaml.Behaviors.Uwp.Managed</title>
+    <authors>Microsoft</authors>
+    <owners>xamlexperiencesteam,Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkID=708401</licenseUrl>
+    <projectUrl>http://go.microsoft.com/fwlink/?LinkID=651678</projectUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=708511</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Easily add interactivity to your apps using XAML Behaviors. Now with UWP support! Behaviors encapsulate reusable functionalities for elements that can be easily added to your XAML without the need for more imperative code. This is the managed version for C# UWP projects.</description>
+    <copyright>Copyright © Microsoft Corporation</copyright>
+    <tags>Behavior Action Behaviors Actions Blend Managed C# Interaction Interactivity Interactions</tags>
+  </metadata>
+</package>

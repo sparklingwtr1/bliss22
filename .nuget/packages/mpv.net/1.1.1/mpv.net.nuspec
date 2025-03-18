@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Mpv.NET</id>
+    <version>1.1.1</version>
+    <title>Mpv.NET</title>
+    <authors>Aurel Hudec Jr, Mpv.NET contributors</authors>
+    <owners>hudec117</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/hudec117/Mpv.NET-lib-</projectUrl>
+    <description>.NET embeddable video/media player based on mpv for WinForms and WPF</description>
+    <summary>.NET embeddable video/media player based on mpv for WinForms and WPF</summary>
+    <releaseNotes>Fixed issue of not being able to free mpv DLL.
+      Simplified helper to avoid exception.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>mpv media video audio media-player video-player audio-player embedded embeddable wpf winforms</tags>
+    <repository type="git" url="https://github.com/hudec117/Mpv.NET-lib-" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>
